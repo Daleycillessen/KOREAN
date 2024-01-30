@@ -1,0 +1,6 @@
+pragma solidity ^0.5.16; 
+
+contract KOREAN {
+    string public name = "KORN";
+    string public symbol = "KRN";
+    uint256 public totalSupply = 20000000; // 20 million tokens
